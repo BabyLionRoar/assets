@@ -1,0 +1,10 @@
+    "name": "Pride Doge Coin",
+    "website": "https://pridedogecoin.com",
+    "description": "Pride Doge Coin is a Community Driven LGBTQ+ Charity and Tech Use-Based Token.",
+    "explorer": "https://bscscan.com/token/0xcac3bbd20e2f123138c7cab66cb84566e42f3b8e",
+    "type": "BEP20",
+    "symbol": "PDoge",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xCaC3bBd20E2f123138c7CAB66Cb84566e42f3B8e"
+}
